@@ -1,2 +1,2 @@
-#TODO App with React Native and EXPO
-
+# TODO App
+To Do App created with React Nativre and EXPO
